@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates the common error of division by zero.  The `function` attempts to divide 'a' by 'b' without handling cases where 'b' might be zero.  The solution file provides a corrected version.
